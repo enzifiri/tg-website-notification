@@ -1,2 +1,12 @@
-# tg-website-notification
-Websitelerinde olası bi değişiklikte telegram botunuza bildirim gönderen bot.
+requirements.txt içeriği
+
+python-telegram-bot==13.7
+requests==2.26.0
+
+Python ve Pip kurun, ardından kodun içerisindeki gerekli paketleri kurun.
+
+Daha sonrasında Kodun içeriğini değiştirin, Websitesi ve Telegram Chat id.
+
+Telegram Grup Chat İdsi bulmak için alttaki websiteyi kullanabilirsiniz.
+
+https://tecamaze.com/how-to-find-your-telegram-group-id-and-chat-id/
